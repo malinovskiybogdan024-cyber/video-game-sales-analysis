@@ -14,3 +14,7 @@
 - Сделал дашборд в Tableau
 # Дашборд
 https://public.tableau.com/app/profile/bogdan.malinovskiy/viz/Book3_17770466364030/Dashboard1
+# Выводы
+- Самый популярный жанр — Action
+- Пик продаж пришёлся на 2008 год
+- Северная Америка — крупнейший рынок (49%)
